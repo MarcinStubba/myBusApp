@@ -1,0 +1,24 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "description": "Enter API settings for MyBusApp.",
+                "data": {
+                    "api_base": "API Base URL"
+                }
+            }
+        }
+    },
+    "options": {
+        "step": {
+            "init": {
+                "data": {
+                    "refresh_rate": "Refresh Rate (seconds)"
+                }
+            }
+        }
+    },
+    "error": {
+        "invalid_url": "Invalid API URL provided."
+    }
+}
