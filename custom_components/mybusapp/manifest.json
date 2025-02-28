@@ -2,9 +2,9 @@
     "domain": "mybusapp",
     "name": "MyBusApp",
     "version": "1.0.0",
-    "documentation": "https://github.com/yourgithub/mybusapp-hacs",
+    "documentation": "https://github.com/MarcinStubba/myBusApp",
     "dependencies": [],
-    "codeowners": ["@yourgithub"],
+    "codeowners": ["@MarcinStubba"],
     "requirements": [],
     "iot_class": "cloud_polling",
     "config_flow": true
